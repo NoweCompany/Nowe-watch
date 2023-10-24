@@ -4,7 +4,7 @@
 </p> 
 
 ## Visão do projeto
-NoweWatch é uma plataforma exclusiva e privada para armazenamento de vídeos desenvolvida para permitir que eu e meus amigos compartilhemos e armazenemos vídeos importantes e memoráveis. Este projeto é uma iniciativa da Nowe Company e é dedicado para uso privado.
+NoweWatch é uma plataforma exclusiva para armazenamento de vídeos desenvolvida para amigos armazenarmos vídeos importantes e memoráveis. 
 
 ## Tecnologias Utilizadas
 - HTML
