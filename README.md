@@ -1,6 +1,6 @@
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/geovaniorsoli/nowewatch/main/img/main_black.png" width="400"> 
-  <img src="https://raw.githubusercontent.com/geovaniorsoli/nowewatch/main/img/icon_black.png" width="400"> 
+  <img src="https://raw.githubusercontent.com/nowecompany/Nowe-watch/main/img/main_black.png" width="400"> 
+  <img src="https://raw.githubusercontent.com/nowecompany/Nowe-watch/main/img/icon_black.png" width="400"> 
 </p> 
 
 ## Visão do projeto
