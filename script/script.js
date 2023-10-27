@@ -24,8 +24,9 @@ document.addEventListener("DOMContentLoaded", function(){
 let videos = {
     "Pé pedal": { type: "youtube", videoId: "dCvdShQp5sQ" },
     "Shopping time": { type: "youtube", videoId: "Hv_ehjM3bJ0" },
-    "Documentario bento quirino": { type: "local", path: "arq/a.mp4" },
-    "aniger vlog" : {type: "youtube", videoId: "7eErsF31968"}
+    "aniger vlog" : {type: "youtube", videoId: "7eErsF31968"},
+    "Dia livre" : {type: "youtube", videoId: "Z8u63PZLwk0"}
+
 
 };
 
