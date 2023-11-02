@@ -13,7 +13,7 @@ NoweWatch é uma plataforma exclusiva para armazenamento de vídeos desenvolvida
 - Bootstrap
 
 ## Instalação
-1. https://nowecompany.com.br/watch
+1. https://watch.nowecompany.com.br
 2. acesse com seu login e senha
 3. enjoy remembering moments
 
