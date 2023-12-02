@@ -25,7 +25,8 @@ let videos = {
     "Pé pedal": { type: "youtube", videoId: "dCvdShQp5sQ" },
     "Shopping time": { type: "youtube", videoId: "Hv_ehjM3bJ0" },
     "aniger vlog" : {type: "youtube", videoId: "7eErsF31968"},
-    "Dia livre" : {type: "youtube", videoId: "Z8u63PZLwk0"}
+    "Dia livre" : {type: "youtube", videoId: "Z8u63PZLwk0"},
+    "Shopping Time2" : {type: "youtube", videoId: "NVZW5OwFsHg"},
 
 
 };
